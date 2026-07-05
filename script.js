@@ -1,8 +1,11 @@
 const images = [
-    "Image/5d95f13e1cf39ce95bb9adfdece34879.jpg",
-    "Image/67017547f09c00617a771eca6af26a7b.jpg",
-    "Image/a002e559ed848d939d2275d343580cec.jpg",
-    "Image/ecd52d82c64d15fdb2c9523a0597ce9f.jpg"
+    "photo1.jpg",
+    "photo2.jpg",
+    "photo3.jpg",
+    "photo4.jpg",
+    "photo5.jpg",
+    "photo6.jpg",
+    "photo7.jpg"
 ];
 
 let index = 0;
